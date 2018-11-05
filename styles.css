@@ -1,0 +1,29 @@
+img {
+      width:500px;
+}
+body {
+    background-color:orange;
+    width:500px;
+    text-align: center;
+}
+p, li, h2, h1{
+    color: black;  
+}
+.green {
+    color:green;
+}
+.blue {
+    color: blue;
+}
+h1 {
+    font-family: 'Spicy Rice', cursive;
+}
+li {
+    font-family: 'Baloo Bhaijaan', cursive;
+}
+p {
+    font-family: 'Pacifico', cursive;
+}
+h2{
+  font-family: 'Lobster', cursive;  
+}
